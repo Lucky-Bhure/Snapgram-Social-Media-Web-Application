@@ -51,7 +51,6 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Lucky-Bhure/Snapgram-Social-Media-Web-Application.git
-cd social_media_app
 ```
 
 **Installation**
